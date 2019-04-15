@@ -1,0 +1,2 @@
+# HelpChat
+HelpChat是一个基于微信App二次开发的人工智能小程序
